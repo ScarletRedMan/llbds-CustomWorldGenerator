@@ -1,0 +1,16 @@
+.vs/
+**/x64/
+**/*.user
+**/.vscode/
+
+**/bedrock_server_api.lib
+**/bedrock_server_var.lib
+
+/.idea/*
+.idea
+!/.idea/cmake.xml
+/cmake-build-*
+build/*
+
+SDK/
+VoidWorldGenrator.dll
